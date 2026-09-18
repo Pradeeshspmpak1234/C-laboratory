@@ -1,0 +1,4 @@
+C:\c# lab\c#exp7a\obj\Debug\net10.0\c#exp7a.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# lab\c#exp7a\obj\Debug\net10.0\c#exp7a.AssemblyInfoInputs.cache
+C:\c# lab\c#exp7a\obj\Debug\net10.0\c#exp7a.AssemblyInfo.cs
+C:\c# lab\c#exp7a\obj\Debug\net10.0\c#exp7a.csproj.CoreCompileInputs.cache
