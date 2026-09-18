@@ -1,0 +1,14 @@
+C:\c# lab\c#exp1\obj\Debug\net10.0\c#exp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# lab\c#exp1\obj\Debug\net10.0\c#exp1.AssemblyInfoInputs.cache
+C:\c# lab\c#exp1\obj\Debug\net10.0\c#exp1.AssemblyInfo.cs
+C:\c# lab\c#exp1\obj\Debug\net10.0\c#exp1.csproj.CoreCompileInputs.cache
+C:\c# lab\c#exp1\bin\Debug\net10.0\c#exp1.exe
+C:\c# lab\c#exp1\bin\Debug\net10.0\c#exp1.deps.json
+C:\c# lab\c#exp1\bin\Debug\net10.0\c#exp1.runtimeconfig.json
+C:\c# lab\c#exp1\bin\Debug\net10.0\c#exp1.dll
+C:\c# lab\c#exp1\bin\Debug\net10.0\c#exp1.pdb
+C:\c# lab\c#exp1\obj\Debug\net10.0\c#exp1.dll
+C:\c# lab\c#exp1\obj\Debug\net10.0\refint\c#exp1.dll
+C:\c# lab\c#exp1\obj\Debug\net10.0\c#exp1.pdb
+C:\c# lab\c#exp1\obj\Debug\net10.0\c#exp1.genruntimeconfig.cache
+C:\c# lab\c#exp1\obj\Debug\net10.0\ref\c#exp1.dll
